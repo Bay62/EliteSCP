@@ -9,3 +9,6 @@ Contents
 --------
 
 .. toctree::
+   SP
+      Regolamento
+   RP
